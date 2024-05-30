@@ -1,4 +1,4 @@
-module github.com/canhlinh/gozk
+module github.com/saqibraza-bp/gozklemon
 
 require (
 	github.com/canhlinh/go-binary-pack v0.0.0-20181203110405-72348cf47f32
